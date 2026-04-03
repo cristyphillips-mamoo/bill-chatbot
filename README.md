@@ -1,5 +1,3 @@
-# bill-chatbot
-Chatbot demo tool for law school class spring 2026 v.1
 # Pay My Bills — "Bill" AI Chatbot
 
 **Educational Simulation Tool · AI and Data Governance Course**
